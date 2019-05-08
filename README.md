@@ -32,3 +32,4 @@ You may also run the program by finding the file icon in file explorer and doubl
 ## Thanks
 Thank you to Brandon for helping me get this assignment done. And thank you to RTC340 repo for letting me fork and clone from them.
 And thanks to this syntax page for helping me write this doc [Github Syntax Page](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#links)
+Thanks to Zak.
